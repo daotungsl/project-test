@@ -1,0 +1,7 @@
+1. nhâ?p git init dê? liên kê´t vo´i githug
+2. git status hiê?n ra nhu~ng tâ?p tin trong project
+3. git add (tab) thêm tâ?p tin da~ thay dô?i va`o local host
+4. git commit -m "(tên comen)"
+5. git push origin (tên branch) thuo`ng la` master
+
+ta?o branch git checkout (tên branch)
