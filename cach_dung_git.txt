@@ -5,3 +5,4 @@
 5. git push origin (tên branch) thuo`ng la` master
 
 ta?o branch git checkout (tên branch)
+git pull ( lâ´y vê` file code chi´nh )
